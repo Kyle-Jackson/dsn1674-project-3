@@ -20,6 +20,7 @@ h1 {
 
 body {
   margin: 0;
+  padding-bottom: 50px;
 }
 
 header {
@@ -70,6 +71,7 @@ img {
   background-size: cover;
   background-repeat: no-repeat;
   padding: 2em;
+  padding-top: 102px;
 }
 
 h2 {
@@ -100,6 +102,9 @@ footer {
   text-align: center;
   padding: 1em;
   font-family: 'Courgette', cursive;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
 }
 
 a {
@@ -114,3 +119,10 @@ a {
 footer:hover {
   background-color: #c0141b;
 }
+
+.fix {
+  position: fixed;
+  height: auto;
+  min-height: 100%;
+  width: 100%;
+  }
