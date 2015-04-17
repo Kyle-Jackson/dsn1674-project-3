@@ -81,7 +81,7 @@ h2 {
 p {
   padding: 0 1em;
   font-family: 'EB Garamond', serif;
-  line-height: 1;
+  line-height: 1.1;
 }
 
 h3 {
@@ -93,4 +93,24 @@ h3 {
 
 .spec {
   margin-top: 0;
+}
+
+footer {
+  background-color: #0d6cb1;
+  text-align: center;
+  padding: 1em;
+  font-family: 'Courgette', cursive;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.nav a:hover {
+  background-color: #0d6cb1;
+}
+
+footer:hover {
+  background-color: #c0141b;
 }
