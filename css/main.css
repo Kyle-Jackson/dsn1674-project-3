@@ -91,6 +91,8 @@ h3 {
   color: #c0141b;
   padding: 0 1em;
   margin: 0;
+  padding-top: 0.5em;
+  font-size: 1.25em;
 }
 
 .spec {
@@ -129,4 +131,11 @@ footer:hover {
 
 .map {
   position: relative;
+}
+
+h4 {
+  font-family: 'Courgette', cursive;
+  padding: 0 1em;
+  margin: 0;
+  padding-top: 0.25em;
 }
