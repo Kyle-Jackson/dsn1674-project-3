@@ -70,9 +70,11 @@ img {
   background-image: url("../images/billboard.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  padding: 2em;
-  padding-top: 102px;
-}
+  padding: 2em 0;
+  padding-top: 111px;
+  width: 100%;
+  height: auto;
+  }
 
 h2 {
   font-family: 'Courgette', cursive;
