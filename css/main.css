@@ -92,7 +92,6 @@ h3 {
   padding: 0 1em;
   margin: 0;
   padding-top: 0.5em;
-  font-size: 1.25em;
 }
 
 .spec {
@@ -139,3 +138,38 @@ h4 {
   margin: 0;
   padding-top: 0.25em;
 }
+
+.info {
+  margin: 0.1em;
+}
+
+.sun {
+  margin: 0.1em;
+  padding-bottom: 1em;
+}
+
+.social {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.social li {
+  display: inline-block;
+  width: 33.3333%;
+  float: left;
+  align: center;
+}
+
+.social a {
+  display: block;
+  padding: 1em 0em;
+  background-color: #0d6cb1;
+  padding-left: 2.22em;
+}
+
+.svg {
+  position: absolute;
+  width: auto;
+  align: center;
+  }
